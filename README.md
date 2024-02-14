@@ -1,7 +1,6 @@
 # 8-NaiveBayes
 
-This repository contains datasets and implementations related to Naive Bayes classification, a popular algorithm in machine learning used for classification tasks, particularly in natural language processing (NLP) and text classification.
-
+This repository contains datasets and implementations related to Naive Bayes classification, a popular algorithm in machine learning used for classification tasks.
 ## Naive Bayes Algorithm
 
 Naive Bayes is a probabilistic algorithm based on Bayes' theorem, which assumes that the presence of a particular feature in a class is unrelated to the presence of any other feature. Despite its "naive" assumption, Naive Bayes has shown to be surprisingly effective in many real-world applications, especially in document classification and spam filtering.
